@@ -2,6 +2,11 @@
 
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/212338544?s=400&u=dfe2fc0f9fd4477b7aa7f0b17d8bd77b43fc8719&v=4" alt="Kaipability Logo" width="200" style="border-radius: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+
+<br />
+<br />
+
 **Transforming Manufacturing Through Structured AI Implementation**
 
 [![Market Opportunity](https://img.shields.io/badge/Market%20Opportunity-%C2%A3200B%2B-success?style=for-the-badge)](#market-opportunity)
@@ -325,10 +330,17 @@ We're developing a **digital platform** that enhances our consulting delivery wi
 </div>
 
 ### **Contact Information**
+
+<div align="center">
+<img src="https://avatars.githubusercontent.com/u/212338544?s=400&u=dfe2fc0f9fd4477b7aa7f0b17d8bd77b43fc8719&v=4" alt="Kaipability" width="80" style="border-radius: 10px;" />
+</div>
+
 🏢 **Kaipability Ltd**  
 🌐 **Headquarters**: London, UK  
 🎯 **Specialization**: Manufacturing AI Readiness  
 📅 **Availability**: Currently accepting new client engagements  
+🔗 **Website**: [www.kaipability.com](https://www.kaipability.com)  
+📧 **Email**: info@kaipability.com  
 
 ### **Next Steps**
 1. **📋 Initial Consultation**: Discuss your AI readiness challenges and objectives

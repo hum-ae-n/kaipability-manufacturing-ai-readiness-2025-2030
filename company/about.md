@@ -1,12 +1,15 @@
 # About Kaipability Ltd
 
 <div align="center">
-<img src="https://www.kaipability.com/logo.png" alt="Kaipability Logo" width="200" />
-</div>
+<img src="https://avatars.githubusercontent.com/u/212338544?s=400&u=dfe2fc0f9fd4477b7aa7f0b17d8bd77b43fc8719&v=4" alt="Kaipability Logo" width="200" style="border-radius: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+
+<br />
+<br />
 
 **Transforming Manufacturing Through AI Readiness Excellence**
 
 **Founded by [Rocky Verma](https://www.linkedin.com/in/rocky-verma/)**
+</div>
 
 ---
 
