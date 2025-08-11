@@ -2,10 +2,6 @@
 
 <div align="center">
 
-<img src="https://www.kaipability.com/logo.png" alt="Kaipability Logo" width="200" />
-
-**Founded by [Rocky Verma](https://www.linkedin.com/in/rocky-verma/)**
-
 **Transforming Manufacturing Through Structured AI Implementation**
 
 [![Market Opportunity](https://img.shields.io/badge/Market%20Opportunity-%C2%A3200B%2B-success?style=for-the-badge)](#market-opportunity)
@@ -15,7 +11,7 @@
 
 *The only manufacturing-specific AI readiness framework that quantifies capability gaps and provides actionable improvement roadmaps*
 
-[📋 **Explore Our Methodology**](https://www.kaipability.com/methodology) • [🎯 **See Client Impact**](https://www.kaipability.com/case-studies) • [📞 **Get In Touch**](https://bookings.kaipability.com)
+[📋 **Explore Our Methodology**](./methodology/mcrl-framework.md) • [🎯 **See Client Impact**](./case-studies/) • [📞 **Get In Touch**](./company/about.md#contact-information)
 
 </div>
 
@@ -329,16 +325,13 @@ We're developing a **digital platform** that enhances our consulting delivery wi
 </div>
 
 ### **Contact Information**
-🏢 **[Kaipability Ltd](https://www.kaipability.com)**  
-👤 **Founder**: [Rocky Verma](https://www.linkedin.com/in/rocky-verma/)  
+🏢 **Kaipability Ltd**  
 🌐 **Headquarters**: London, UK  
 🎯 **Specialization**: Manufacturing AI Readiness  
 📅 **Availability**: Currently accepting new client engagements  
-📧 **Email**: info@kaipability.com  
-🔗 **Website**: [www.kaipability.com](https://www.kaipability.com)  
 
 ### **Next Steps**
-1. **[📋 Initial Consultation](https://bookings.kaipability.com)**: Discuss your AI readiness challenges and objectives
+1. **📋 Initial Consultation**: Discuss your AI readiness challenges and objectives
 2. **🔍 Assessment Scoping**: Define engagement scope and success criteria  
 3. **📊 Readiness Evaluation**: Comprehensive MCRL/AIRL assessment
 4. **🚀 Implementation Planning**: Strategic roadmap development
@@ -349,25 +342,22 @@ We're developing a **digital platform** that enhances our consulting delivery wi
 ## 📚 **Resources & Documentation**
 
 ### **Framework Documentation**
-- [🧬 MCRL Methodology Overview](https://www.kaipability.com/methodology)
-- [🤖 AIRL Assessment Guide](https://www.kaipability.com/methodology)  
-- [📊 Industry Benchmarking](https://www.kaipability.com/insights)
-- [🔍 Case Study Library](https://www.kaipability.com/case-studies)
-- [🌐 Visit Our Website](https://www.kaipability.com)
+- [🧬 MCRL Methodology Overview](./methodology/mcrl-framework.md)
+- [🤖 AIRL Assessment Guide](./methodology/airl-assessment.md)  
+- [📊 Industry Benchmarking](./research/industry-benchmarks.md)
+- [🔍 Case Study Library](./case-studies/)
 
 ### **Research & Insights**
-- [📈 Manufacturing AI Market Analysis](https://www.kaipability.com/insights)
-- [⚖️ Regulatory Compliance Guide](https://www.kaipability.com/compliance)
-- [💡 Best Practices Repository](https://www.kaipability.com/best-practices)
-- [📋 Implementation Playbooks](https://www.kaipability.com/resources)
+- [📈 Manufacturing AI Market Analysis](./research/market-analysis.md)
+- [⚖️ Regulatory Compliance Guide](./research/regulatory-compliance.md)
+- [💡 Best Practices Repository](./research/best-practices.md)
+- [📋 Implementation Playbooks](./playbooks/)
 
 ### **Business Information**
-- [🏢 About Kaipability](https://www.kaipability.com/about)
-- [👤 Founder - Rocky Verma](https://www.linkedin.com/in/rocky-verma/)
-- [👥 Our Team](https://www.kaipability.com/team)
-- [🤝 Partnership Opportunities](https://www.kaipability.com/partnerships)
-- [📰 News & Updates](https://www.kaipability.com/news)
-- [🌐 Company Website](https://www.kaipability.com)
+- [🏢 About Kaipability](./company/about.md)
+- [👥 Our Team](./company/team.md)
+- [🤝 Partnership Opportunities](./partnerships/)
+- [📰 News & Updates](./news/)
 
 ---
 
@@ -383,8 +373,6 @@ We're developing a **digital platform** that enhances our consulting delivery wi
 
 **⭐ Star this repository for updates • 👁️ Watch for industry insights • 🍴 Fork for collaboration opportunities**
 
-**[🌐 Visit Kaipability.com](https://www.kaipability.com) • [👤 Connect with Rocky Verma](https://www.linkedin.com/in/rocky-verma/)**
-
 *Transforming manufacturing through AI readiness excellence — one assessment at a time.*
 
 </div>
@@ -393,8 +381,7 @@ We're developing a **digital platform** that enhances our consulting delivery wi
 
 ## 🔒 **Legal & Confidentiality**
 
-**© 2025 [Kaipability Ltd](https://www.kaipability.com). All rights reserved.**  
-**Founded by [Rocky Verma](https://www.linkedin.com/in/rocky-verma/)**
+**© 2025 Kaipability Ltd. All rights reserved.**
 
 This repository contains general methodology information and industry insights. Detailed proprietary frameworks, client-specific data, and confidential business information are maintained separately under appropriate confidentiality and IP protection measures.
 
