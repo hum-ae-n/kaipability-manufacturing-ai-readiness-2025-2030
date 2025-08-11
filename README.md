@@ -2,6 +2,10 @@
 
 <div align="center">
 
+<img src="https://www.kaipability.com/logo.png" alt="Kaipability Logo" width="200" />
+
+**Founded by [Rocky Verma](https://www.linkedin.com/in/rocky-verma/)**
+
 **Transforming Manufacturing Through Structured AI Implementation**
 
 [![Market Opportunity](https://img.shields.io/badge/Market%20Opportunity-%C2%A3200B%2B-success?style=for-the-badge)](#market-opportunity)
@@ -11,7 +15,7 @@
 
 *The only manufacturing-specific AI readiness framework that quantifies capability gaps and provides actionable improvement roadmaps*
 
-[📋 **Explore Our Methodology**](#our-methodology) • [🎯 **See Client Impact**](#client-success) • [📞 **Get In Touch**](#contact)
+[📋 **Explore Our Methodology**](#our-methodology) • [🎯 **See Client Impact**](#client-success) • [📞 **Get In Touch**](https://www.kaipability.com/contact)
 
 </div>
 
@@ -320,15 +324,18 @@ We're developing a **digital platform** that enhances our consulting delivery wi
 
 <div align="center">
 
-**[📋 Request Assessment](https://github.com/hum-ae-n/kaipability-manufacturing-ai-readiness-2025-2030/issues/new?template=assessment-request.md)** • **[📧 Partnership Inquiry](https://github.com/hum-ae-n/kaipability-manufacturing-ai-readiness-2025-2030/issues/new?template=partnership-inquiry.md)** • **[💬 General Discussion](https://github.com/hum-ae-n/kaipability-manufacturing-ai-readiness-2025-2030/discussions)**
+**[📋 Request Assessment](https://www.kaipability.com/assessment)** • **[📧 Partnership Inquiry](https://www.kaipability.com/partnerships)** • **[💬 Contact Us](https://www.kaipability.com/contact)**
 
 </div>
 
 ### **Contact Information**
-🏢 **Kaipability Ltd**  
+🏢 **[Kaipability Ltd](https://www.kaipability.com)**  
+👤 **Founder**: [Rocky Verma](https://www.linkedin.com/in/rocky-verma/)  
 🌐 **Headquarters**: London, UK  
 🎯 **Specialization**: Manufacturing AI Readiness  
 📅 **Availability**: Currently accepting new client engagements  
+📧 **Email**: info@kaipability.com  
+🔗 **Website**: [www.kaipability.com](https://www.kaipability.com)  
 
 ### **Next Steps**
 1. **📋 Initial Consultation**: Discuss your AI readiness challenges and objectives
@@ -346,6 +353,7 @@ We're developing a **digital platform** that enhances our consulting delivery wi
 - [🤖 AIRL Assessment Guide](./methodology/airl-assessment.md)  
 - [📊 Industry Benchmarking](./research/industry-benchmarks.md)
 - [🔍 Case Study Library](./case-studies/)
+- [🌐 Visit Our Website](https://www.kaipability.com)
 
 ### **Research & Insights**
 - [📈 Manufacturing AI Market Analysis](./research/market-analysis.md)
@@ -355,9 +363,11 @@ We're developing a **digital platform** that enhances our consulting delivery wi
 
 ### **Business Information**
 - [🏢 About Kaipability](./company/about.md)
-- [👥 Our Team](./company/team.md)
+- [👤 Founder - Rocky Verma](https://www.linkedin.com/in/rocky-verma/)
+- [👥 Our Team](https://www.kaipability.com/team)
 - [🤝 Partnership Opportunities](./partnerships/)
 - [📰 News & Updates](./news/)
+- [🌐 Company Website](https://www.kaipability.com)
 
 ---
 
@@ -373,6 +383,8 @@ We're developing a **digital platform** that enhances our consulting delivery wi
 
 **⭐ Star this repository for updates • 👁️ Watch for industry insights • 🍴 Fork for collaboration opportunities**
 
+**[🌐 Visit Kaipability.com](https://www.kaipability.com) • [👤 Connect with Rocky Verma](https://www.linkedin.com/in/rocky-verma/)**
+
 *Transforming manufacturing through AI readiness excellence — one assessment at a time.*
 
 </div>
@@ -381,7 +393,8 @@ We're developing a **digital platform** that enhances our consulting delivery wi
 
 ## 🔒 **Legal & Confidentiality**
 
-**© 2025 Kaipability Ltd. All rights reserved.**
+**© 2025 [Kaipability Ltd](https://www.kaipability.com). All rights reserved.**  
+**Founded by [Rocky Verma](https://www.linkedin.com/in/rocky-verma/)**
 
 This repository contains general methodology information and industry insights. Detailed proprietary frameworks, client-specific data, and confidential business information are maintained separately under appropriate confidentiality and IP protection measures.
 

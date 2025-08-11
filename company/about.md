@@ -1,6 +1,12 @@
 # About Kaipability Ltd
 
+<div align="center">
+<img src="https://www.kaipability.com/logo.png" alt="Kaipability Logo" width="200" />
+</div>
+
 **Transforming Manufacturing Through AI Readiness Excellence**
+
+**Founded by [Rocky Verma](https://www.linkedin.com/in/rocky-verma/)**
 
 ---
 
@@ -65,6 +71,10 @@ We measure our success by our clients' achievements - improved operations, compe
 ---
 
 ## Leadership and Expertise
+
+### **Founder & CEO**
+**[Rocky Verma](https://www.linkedin.com/in/rocky-verma/)**  
+Rocky brings deep expertise in manufacturing transformation and AI implementation, with a proven track record of helping organizations achieve operational excellence through strategic technology adoption.
 
 ### **Industry Experience**
 Our team combines:
@@ -209,9 +219,11 @@ To begin working with Kaipability:
 
 ## Contact Information
 
-**🏢 Kaipability Ltd**  
-📧 **General Inquiries**: Use GitHub repository issues for initial contact  
-🌐 **Headquarters**: London, United Kingdom  
+**🏢 [Kaipability Ltd](https://www.kaipability.com)**  
+👤 **Founder**: [Rocky Verma](https://www.linkedin.com/in/rocky-verma/)  
+📧 **Email**: info@kaipability.com  
+🌐 **Website**: [www.kaipability.com](https://www.kaipability.com)  
+📍 **Headquarters**: London, United Kingdom  
 📋 **Registration**: Companies House registered UK limited company  
 🔒 **Professional Standards**: Comprehensive professional indemnity and liability coverage
 
@@ -226,4 +238,6 @@ To begin working with Kaipability:
 
 *Kaipability Ltd is committed to transforming manufacturing through systematic AI readiness assessment and strategic implementation support. We combine deep manufacturing expertise with practical AI knowledge to deliver measurable results and sustainable competitive advantage.*
 
-**Ready to transform your manufacturing operations through AI readiness excellence?** Contact us to discuss your specific challenges and opportunities.
+**Ready to transform your manufacturing operations through AI readiness excellence?** 
+
+[Visit our website](https://www.kaipability.com) or [connect with Rocky Verma](https://www.linkedin.com/in/rocky-verma/) to discuss your specific challenges and opportunities.
