@@ -15,7 +15,7 @@
 
 *The only manufacturing-specific AI readiness framework that quantifies capability gaps and provides actionable improvement roadmaps*
 
-[📋 **Explore Our Methodology**](#our-methodology) • [🎯 **See Client Impact**](#client-success) • [📞 **Get In Touch**](https://bookings.kaipability.com)
+[📋 **Explore Our Methodology**](https://www.kaipability.com/methodology) • [🎯 **See Client Impact**](https://www.kaipability.com/case-studies) • [📞 **Get In Touch**](https://bookings.kaipability.com)
 
 </div>
 
