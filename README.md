@@ -15,7 +15,7 @@
 
 *The only manufacturing-specific AI readiness framework that quantifies capability gaps and provides actionable improvement roadmaps*
 
-[📋 **Explore Our Methodology**](#our-methodology) • [🎯 **See Client Impact**](#client-success) • [📞 **Get In Touch**](https://www.kaipability.com/contact)
+[📋 **Explore Our Methodology**](#our-methodology) • [🎯 **See Client Impact**](#client-success) • [📞 **Get In Touch**](https://bookings.kaipability.com)
 
 </div>
 
@@ -324,7 +324,7 @@ We're developing a **digital platform** that enhances our consulting delivery wi
 
 <div align="center">
 
-**[📋 Request Assessment](https://www.kaipability.com/assessment)** • **[📧 Partnership Inquiry](https://www.kaipability.com/partnerships)** • **[💬 Contact Us](https://www.kaipability.com/contact)**
+**[📋 Request Assessment](https://bookings.kaipability.com)** • **[📧 Partnership Inquiry](https://bookings.kaipability.com)** • **[💬 General Discussion](https://www.kaipability.com/contact)**
 
 </div>
 
@@ -338,7 +338,7 @@ We're developing a **digital platform** that enhances our consulting delivery wi
 🔗 **Website**: [www.kaipability.com](https://www.kaipability.com)  
 
 ### **Next Steps**
-1. **📋 Initial Consultation**: Discuss your AI readiness challenges and objectives
+1. **[📋 Initial Consultation](https://bookings.kaipability.com)**: Discuss your AI readiness challenges and objectives
 2. **🔍 Assessment Scoping**: Define engagement scope and success criteria  
 3. **📊 Readiness Evaluation**: Comprehensive MCRL/AIRL assessment
 4. **🚀 Implementation Planning**: Strategic roadmap development
@@ -349,24 +349,24 @@ We're developing a **digital platform** that enhances our consulting delivery wi
 ## 📚 **Resources & Documentation**
 
 ### **Framework Documentation**
-- [🧬 MCRL Methodology Overview](./methodology/mcrl-framework.md)
-- [🤖 AIRL Assessment Guide](./methodology/airl-assessment.md)  
-- [📊 Industry Benchmarking](./research/industry-benchmarks.md)
-- [🔍 Case Study Library](./case-studies/)
+- [🧬 MCRL Methodology Overview](https://www.kaipability.com/methodology)
+- [🤖 AIRL Assessment Guide](https://www.kaipability.com/methodology)  
+- [📊 Industry Benchmarking](https://www.kaipability.com/insights)
+- [🔍 Case Study Library](https://www.kaipability.com/case-studies)
 - [🌐 Visit Our Website](https://www.kaipability.com)
 
 ### **Research & Insights**
-- [📈 Manufacturing AI Market Analysis](./research/market-analysis.md)
-- [⚖️ Regulatory Compliance Guide](./research/regulatory-compliance.md)
-- [💡 Best Practices Repository](./research/best-practices.md)
-- [📋 Implementation Playbooks](./playbooks/)
+- [📈 Manufacturing AI Market Analysis](https://www.kaipability.com/insights)
+- [⚖️ Regulatory Compliance Guide](https://www.kaipability.com/compliance)
+- [💡 Best Practices Repository](https://www.kaipability.com/best-practices)
+- [📋 Implementation Playbooks](https://www.kaipability.com/resources)
 
 ### **Business Information**
-- [🏢 About Kaipability](./company/about.md)
+- [🏢 About Kaipability](https://www.kaipability.com/about)
 - [👤 Founder - Rocky Verma](https://www.linkedin.com/in/rocky-verma/)
 - [👥 Our Team](https://www.kaipability.com/team)
-- [🤝 Partnership Opportunities](./partnerships/)
-- [📰 News & Updates](./news/)
+- [🤝 Partnership Opportunities](https://www.kaipability.com/partnerships)
+- [📰 News & Updates](https://www.kaipability.com/news)
 - [🌐 Company Website](https://www.kaipability.com)
 
 ---
